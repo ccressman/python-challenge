@@ -1,0 +1,14 @@
+----------------------------
+Claire: Financial Analysis
+----------------------------
+Total Months Included in Dataset: 86 months
+
+Net Total of Profit and Loss: $22564198
+
+Average Change in Profit and Loss Between Months Reported: $-8311.11
+
+Greatest Increase in Profit and Loss: $1862002
+
+Greatest Decrease in Profit and Loss: $-1825558
+
+The End! Hope the negative numbers weren't too depressing.
