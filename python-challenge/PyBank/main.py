@@ -72,6 +72,6 @@ with open(output_path, 'w') as t:
   print("", file = t)
   print("Greatest Decrease in Profit and Loss: $" + str(min(changement)), file = t)
   print("", file = t)
-  print("The End! Hope the negative numbers weren't too depressing.", file = t)
+
   
   
