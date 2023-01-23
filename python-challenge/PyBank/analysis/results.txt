@@ -11,4 +11,4 @@ Greatest Increase in Profit and Loss: $1862002
 
 Greatest Decrease in Profit and Loss: $-1825558
 
-The End! Hope the negative numbers weren't too depressing.
+
